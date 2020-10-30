@@ -36,3 +36,14 @@ setURL(URL)
 ```python
 callslack(message)
 ```
+
+
+### Example
+```
+from pySlackCall import pySlackCall
+
+slack = pySlackCall()
+slack.setURL("https://[MyURL]")
+
+slack.callslack("にゃーん")
+```

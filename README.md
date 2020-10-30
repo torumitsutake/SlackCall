@@ -39,7 +39,7 @@ callslack(message)
 
 
 ### Example
-```
+```python
 from pySlackCall import pySlackCall
 
 slack = pySlackCall()

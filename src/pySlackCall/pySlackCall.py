@@ -4,7 +4,7 @@ import slackweb
 
 class pySlackCall():
     #field 
-    WebhookURL = "https://hooks.slack.com/services/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"
+    WebhookURL = ""
     slack = slackweb.Slack(url=WebhookURL)
 
     def setURL(self,url):

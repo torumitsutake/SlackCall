@@ -2,6 +2,14 @@
 スラックにメッセージを呼び出すためのpythonプログラム
 
 
+#install
+
+```
+git clone https://github.com/torumitsutake/SlackCall
+cd SlackCall
+pip install .
+```
+
 # Usage
 
 ## import

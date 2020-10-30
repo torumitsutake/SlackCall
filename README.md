@@ -2,7 +2,10 @@
 スラックにメッセージを呼び出すためのpythonプログラム
 
 
-#install
+# 前提条件
+Slack APIからwebHookURLを取得してください。
+
+# install
 
 ```
 git clone https://github.com/torumitsutake/SlackCall

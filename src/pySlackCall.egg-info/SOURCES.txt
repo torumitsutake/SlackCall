@@ -1,0 +1,7 @@
+setup.py
+src/pySlackCall.egg-info/PKG-INFO
+src/pySlackCall.egg-info/SOURCES.txt
+src/pySlackCall.egg-info/dependency_links.txt
+src/pySlackCall.egg-info/not-zip-safe
+src/pySlackCall.egg-info/requires.txt
+src/pySlackCall.egg-info/top_level.txt

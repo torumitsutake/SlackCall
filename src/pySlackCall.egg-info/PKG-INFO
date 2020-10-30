@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pySlackCall
+Version: 0.1.0
+Summary: pythonからSlackを呼ぶためのパッケージ
+Home-page: https://github.com/torumitsutake/SlackCall
+Author: torumitsutake@gmail.com
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
